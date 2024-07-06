@@ -5,7 +5,7 @@ import user_details from '../data/userData.json'
 const pageURL = ("https://testpages.herokuapp.com/styled/tag/dynamic-table.html");
 
 
-export class Tabel_Page {
+export class Table_Page {
     private page: Page;
     constructor(page: Page) {
         this.page = page;
